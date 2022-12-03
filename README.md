@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Saurabhtrivedy
-- 👀 I’m interested in Hacking
+- 👀 I’m interested in machine learning !
 - 🌱 I’m currently learning cand python 
 - 📫 How to reach me offcial on saurabhtrivedy0502@gmail.com
 
